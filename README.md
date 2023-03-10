@@ -2,22 +2,22 @@
  
 1) Real Time Character Counter
 
- ![Vodeo](/Real_Time_Character_Counter/video.gif)
+ ![Vodeo](/Real-Time-Character-Counter/video.gif)
 
 2) Heart Trail Animation
 
-![Video](/Heart_Trail_Animation/video.gif)
+![Video](/Heart-Trail-Animation/video.gif)
 
 3) Simple Multiplication App 
 
-![APP Video](/Multiplication_App/video.gif)
+![APP Video](/Multiplication-App/video.gif)
 
 
 4) Digital Clock
 
-![Digital Clock Video](/Digital_Clock/video.gif)
+![Digital Clock Video](/Digital-Clock/video.gif)
 
 5) Sticky Navbar
 
-![Sticky Navbar Video](/Sticky_Navbar/video.gif)
+![Sticky Navbar Video](/Sticky-Navbar/video.gif)
  
